@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 <!-- ![Visitor Count](https://profile-counter.glitch.me/blangwell/count.svg)-->
 ![Barent's github stats](https://github-readme-stats.vercel.app/api?username=blangwell&show_icons=true&theme=gotham)
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=blangwell&layout=compact&theme=gotham)](https://github.com/blangwell/github-readme-stats)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-br3ndonland-informational?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/blangwell/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blangwell-informational?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/blangwell/)
 
