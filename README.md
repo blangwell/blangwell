@@ -15,4 +15,5 @@ Here are some ideas to get you started:
 -->
 
 ![Barent's github stats](https://github-readme-stats.vercel.app/api?username=blangwell&show_icons=true&theme=gotham)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=blangwell)](https://github.com/blangwell/github-readme-stats&theme=gotham)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=blangwell&layout=compact&theme=gotham)](https://github.com/blangwell/github-readme-stats)
+
