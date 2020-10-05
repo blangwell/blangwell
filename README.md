@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+![Visitor Count](https : //profile-counter.glitch.me/blangwell/count.svg)
 ![Barent's github stats](https://github-readme-stats.vercel.app/api?username=blangwell&show_icons=true&theme=gotham)
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=blangwell&layout=compact&theme=gotham)](https://github.com/blangwell/github-readme-stats)
 
