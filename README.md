@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **blangwell/blangwell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,4 +13,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Barent's github stats](https://github-readme-stats.vercel.app/api?username=blangwell)](https://github.com/blangwell/github-readme-stats)
+
+![Barent's github stats](https://github-readme-stats.vercel.app/api?username=blangwell&show_icons=true&theme=dark)
