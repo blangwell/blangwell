@@ -13,10 +13,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<p align="center">
+<p style="text-align: center;">
+
 <!-- ![Visitor Count](https://profile-counter.glitch.me/blangwell/count.svg)-->
 ![Barent's github stats](https://github-readme-stats.vercel.app/api?username=blangwell&show_icons=true&theme=gotham)\
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=blangwell&layout=compact&theme=gotham)](https://github.com/blangwell/github-readme-stats)\
 <a href="https://www.linkedin.com/in/blangwell" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white"></a>
-</p>
 
+</p>
