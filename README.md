@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## Hey there!
-I'm a full stack engineer passionate about using software to solve human problems. Connect with me on Linkedin!
+My name is Barent. I'm a full stack engineer passionate about using software to solve human problems. Connect with me on Linkedin!
 
 <a href="http://linkedin.com/in/blangwell"><img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
