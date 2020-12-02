@@ -13,13 +13,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<h1 align="center">Howdy! I'm Barent 🤝</h1>
 
-## Hey there!
-My name is Barent. I'm a full stack engineer passionate about using software to solve human problems.
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=blangwell&show_icons=true&theme=gotham">
+</p>
 
-![Barent's github stats](https://github-readme-stats.vercel.app/api?username=blangwell&show_icons=true&theme=gotham)
+<h2 align="center">Languages & Technologies</h2>
 
-## Languages & Technologies
 <p align="center">
 <a href="##Technologies"><img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/></a>
 <a href="##Technologies"><img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/></a>
@@ -31,6 +32,7 @@ My name is Barent. I'm a full stack engineer passionate about using software to 
 <a href="##Technologies"><img src="https://img.shields.io/badge/heroku%20-%23430098.svg?&style=for-the-badge&logo=heroku&logoColor=white"/></a>
  </p>
  
- 
+ <p align="center">
 <a href="http://linkedin.com/in/blangwell"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue"/></a>
 <img src="https://visitor-badge.glitch.me/badge?page_id=blangwell.blangwell" alt="visitor badge"/>
+</p>
