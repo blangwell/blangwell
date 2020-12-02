@@ -14,10 +14,20 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Howdy! I'm Barent 🤝</h1>
-
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=blangwell&show_icons=true&theme=gotham">
-</p>
+ ⚤ Pronouns: He/Him/His
+ </p>
+<p align="center">
+🎓  General Assembly SEIR Alumni
+ </p>
+ 
+<p align="center">
+ 📚  Currently Reading: Marijn Haverbeke's <strong>Eloquent Javascript</strong> & Aditya Bhargava's <strong>Grokking Algorithms</strong>
+  </p>
+<p align="center">
+ 🧠  Currently Studying: Maximilian Schwarzmuller's <strong>NodeJS - The Complete Guide</strong>
+  </p>
+
 
 <h2 align="center">Languages & Technologies</h2>
 
