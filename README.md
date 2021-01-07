@@ -18,7 +18,7 @@ Here are some ideas to get you started:
  ⚤ Pronouns: He/Him/His
  </p>
 <p align="center">
-🎓  General Assembly SEIR Alumni
+🎓  Teaching Assistant at General Assembly
  </p>
  
 <p align="center">
