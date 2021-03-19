@@ -18,14 +18,14 @@ Here are some ideas to get you started:
  ⚤ Pronouns: He/Him/His
  </p>
 <p align="center">
-🎓  Teaching Assistant at General Assembly
+🎓  Instructional Associate at General Assembly
  </p>
  
 <p align="center">
- 📚  Currently Reading: Marijn Haverbeke's <strong>Eloquent Javascript</strong> & Aditya Bhargava's <strong>Grokking Algorithms</strong>
+ 📚  Currently Reading: Peter Yaworski's <strong>Real World Bug Hunting</strong> & Aditya Bhargava's <strong>Grokking Algorithms</strong>
   </p>
 <p align="center">
- 🧠  Currently Studying: Maximilian Schwarzmuller's <strong>NodeJS - The Complete Guide</strong>
+ 🧠  Currently Studying: Colt Steele's <strong>Javascript Algorithms and Data Structures Master Class</strong>
   </p>
 
 
