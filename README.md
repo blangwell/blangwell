@@ -3,10 +3,10 @@
  ⚤ Pronouns: He/Him/His
 </p>
 <p>
-🎓  Web Development Curriculum Developer and Teaching Assistant at Podium Education
+🎓  Web Development at Podium Education
 </p>
 <p>
-📚  Currently Reading: Robert C. Martin's <strong>Clean Code</strong>
+ 📚  Currently Reading: RB Whitaker's <strong>The Player's Guide to C#</strong> 
 </p>
 <p> 
  💼 <a href="https://blangwell.github.io/portfolio/">Portfolio</a>
