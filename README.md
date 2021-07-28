@@ -3,10 +3,10 @@
  ⚤ Pronouns: He/Him/His
 </p>
 <p>
-🎓  Web Development at Podium Education
+🎓  Web Development Instructor @ ASU, USF, UTK, and SUNY
 </p>
 <p>
- 📚  Currently Reading: RB Whitaker's <strong>The Player's Guide to C#</strong> 
+ 📚  Currently Reading: Mario Casciaro and Luciano Mammino's <strong>Node.js Design Patterns</strong> 
 </p>
 <p> 
  💼 <a href="https://blangwell.github.io/portfolio/">Portfolio</a>
