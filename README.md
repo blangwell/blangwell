@@ -13,10 +13,10 @@
  💼 Check out my <a href="https://blangwell.github.io/portfolio/">Portfolio</a>
 </p>
 
-![Barent's GitHub stats](https://github-readme-stats.vercel.app/api?username=blangwell&show_icons=true)
+![Barent's GitHub stats](https://github-readme-stats.vercel.app/api?username=blangwell&show_icons=true&theme=dracula)
 
 <!-- <h2>Tech Stack</h2> -->
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=blangwell&layout=compact&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=blangwell&layout=compact&langs_count=6&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
  
 <!-- <br/><br/> -->
 <!-- <a href="#">
