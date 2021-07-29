@@ -1,5 +1,4 @@
-<div>
-<h2>Howdy, I'm Barent👋</h2>
+<h2>Howdy, I'm Barent 👋</h2>
 <p>
  ⚤ Pronouns: He/Him/His
 </p>
@@ -15,9 +14,9 @@
 
 ![Barent's GitHub stats](https://github-readme-stats.vercel.app/api?username=blangwell&show_icons=true&theme=dracula)
 
-<!-- <h2>Tech Stack</h2> -->
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=blangwell&layout=compact&langs_count=6&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
  
+<!-- <h2>Tech Stack</h2> -->
 <!-- <br/><br/> -->
 <!-- <a href="#">
  <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
@@ -62,4 +61,3 @@
  <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /> 
 </a>
 <!-- <img src="https://visitor-badge.glitch.me/badge?page_id=blangwell.blangwell" alt="visitor badge"/> -->
-</div>
