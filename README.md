@@ -7,7 +7,7 @@
 🎓  Web Development Instructor @ ASU, USF, UTK, and SUNY
 </p>
 <p>
- 📚  Currently Reading: Mario Casciaro and Luciano Mammino's <strong>Node.js Design Patterns</strong> 
+ 📚 Reading: Mario Casciaro and Luciano Mammino's <strong>Node.js Design Patterns</strong> 
 </p>
 <p> 
  💼 Check out my <a href="https://blangwell.github.io/portfolio/">Portfolio</a>
