@@ -1,4 +1,5 @@
-<h1>👋</h1>
+<div>
+<h2>Howdy, I'm Barent👋</h2>
 <p>
  ⚤ Pronouns: He/Him/His
 </p>
@@ -9,14 +10,20 @@
  📚  Currently Reading: Mario Casciaro and Luciano Mammino's <strong>Node.js Design Patterns</strong> 
 </p>
 <p> 
- 💼 <a href="https://blangwell.github.io/portfolio/">Portfolio</a>
+ 💼 Check out my <a href="https://blangwell.github.io/portfolio/">Portfolio</a>
+</p>
 
-<h2>Tech Stack</h2>
-<a href="#">
+![Barent's GitHub stats](https://github-readme-stats.vercel.app/api?username=blangwell&show_icons=true)
+
+<!-- <h2>Tech Stack</h2> -->
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=blangwell&layout=compact&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
+ 
+<!-- <br/><br/> -->
+<!-- <a href="#">
  <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
 </a>
 <a href="#">
- <img alt="NodeJS" src="https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node-dot-js&logoColor=white"/>
+ <img alt="NodeJS" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
 </a>
 <a href="#">
  <img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
@@ -30,31 +37,24 @@
 <br/>
 
 <a href="#">
- <img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"/>
-</a>
-<a href="#">
- <img alt="Django" src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white"/>
-</a>
-<a href="#">
  <img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>
 </a>
 <a href="#">
  <img alt="Postgres" src ="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"/>
 </a>
 <a href="#">
- <img alt="Mocha" src="https://img.shields.io/badge/-mocha-%238D6748?style=for-the-badge&logo=mocha&logoColor=white"/>
+ <img alt="Python" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"/>
 </a>
-<br/>
-
 <a href="#">
  <img alt="Material UI" src="https://img.shields.io/badge/materialui-%230081CB.svg?style=for-the-badge&logo=material-ui&logoColor=white"/>
 </a>
 <a href="#">
  <img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-</a>
-<br/><br/>
+</a> -->
 
-<h2>Me Elsewhere</h2>
+
+
+<!-- <h3>Me Elsewhere</h3> -->
 <a href="https://blangwell.medium.com/" target="_blank">
  <img alt="Medium" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/>
 </a>
@@ -62,3 +62,4 @@
  <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /> 
 </a>
 <!-- <img src="https://visitor-badge.glitch.me/badge?page_id=blangwell.blangwell" alt="visitor badge"/> -->
+</div>
