@@ -3,10 +3,10 @@
  ⚤ Pronouns: He/Him/His
 </p>
 <p>
-🎓  Web Development Instructor @ ASU, USF, UTK, and SUNY
+🎓  Web Development @ Podium Education
 </p>
 <p>
- 📚 Reading: Mario Casciaro and Luciano Mammino's <strong>Node.js Design Patterns</strong> 
+ 📚 Reading: Mario Casciaro and Luciano Mammino's <strong>Node.js Design Patterns</strong> and Joe Abercrombie's <strong>First Law Trilogy</strong>
 </p>
 <p> 
  💼 Check out my <a href="https://blangwell.github.io/portfolio/">Portfolio</a>
