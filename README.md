@@ -6,7 +6,7 @@
 🎓  Web Development @ Podium Education
 </p>
 <p>
- 📚 Reading: Mario Casciaro and Luciano Mammino's <strong>Node.js Design Patterns</strong> and Joe Abercrombie's <strong>First Law Trilogy</strong>
+ 📚 Reading: Chris James' Learn Go with Tests and Haruki Murakami's Underground
 </p>
 <p> 
  💼 Check out my <a href="https://blangwell.github.io/portfolio/">Portfolio</a>
