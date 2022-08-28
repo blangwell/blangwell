@@ -1,20 +1,15 @@
 <h2>Howdy, I'm Barent 👋</h2>
 <p>
- ⚤ Pronouns: He/Him/His
+ ⚤ Pronouns: He/They
 </p>
 <p>
 🎓  Web Development @ Podium Education
 </p>
 <p>
- 📚 Reading: Chris James' Learn Go with Tests and Haruki Murakami's Underground
-</p>
-<p> 
- 💼 Check out my <a href="https://blangwell.github.io/portfolio/">Portfolio</a>
+ 📚 Reading: Code (Second Edition) by Charles Petzold
 </p>
 
 ![Barent's GitHub stats](https://github-readme-stats.vercel.app/api?username=blangwell&show_icons=true&theme=dracula)
-
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=blangwell&layout=compact&langs_count=6&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
  
 <!-- <h2>Tech Stack</h2> -->
 <!-- <br/><br/> -->
