@@ -3,7 +3,7 @@
 🎓  Web Development @ Podium Education
 </p>
 <p>
- 📚 Reading: Code (Second Edition) by Charles Petzold
+ 📚 Reading: The Unicorn Project by Gene Kim
 </p>
 
 ![Barent's GitHub stats](https://github-readme-stats.vercel.app/api?username=blangwell&show_icons=true&theme=dracula)
