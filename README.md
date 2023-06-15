@@ -6,8 +6,6 @@
  📚 Reading: The Unicorn Project by Gene Kim
 </p>
 
-![Barent's GitHub stats](https://github-readme-stats.vercel.app/api?username=blangwell&show_icons=true&theme=dracula)
-
 <!-- <h3>Me Elsewhere</h3> -->
 <a href="https://blangwell.medium.com/" target="_blank">
  <img alt="Medium" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/>
