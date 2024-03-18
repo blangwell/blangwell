@@ -2,9 +2,6 @@
 <p>
 🎓  Web Development @ Podium Education
 </p>
-<p>
- 📚 Reading: The Unicorn Project by Gene Kim
-</p>
 
 <!-- <h3>Me Elsewhere</h3> -->
 <a href="https://blangwell.medium.com/" target="_blank">
