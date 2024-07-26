@@ -1,4 +1,4 @@
-<h2>Howdy, I'm Barent 👋</h2>
+<h2>Hey there, I'm Barent 👋</h2>
 <p>
 🎓  Web Development @ Podium Education
 </p>
