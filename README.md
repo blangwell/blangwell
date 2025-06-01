@@ -1,5 +1,6 @@
 <h2>Hey there, I'm Barent 👋</h2>
 <p>
+🔍  Senior QA @ Neon One
 🎓  Web Development @ Podium Education
 </p>
 
